@@ -2,7 +2,7 @@
 Exam 2, problem 2.
 
 Authors: Dave Fisher, David Mutchler, Matt Boutell, their colleagues,
-         and Nathaniel Blanco.  October 2018.
+         and Nathaniel Blanco.  October 2018. 
 """  # DONE: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
 import math
